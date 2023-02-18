@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "histo.C": "cpp",
+        "histo2.C": "cpp",
+        "maxwell.C": "cpp",
+        "cMaxwell.C": "cpp",
+        "maxwell-comb.C": "cpp",
+        "grafico-final.C": "cpp",
+        "makeFunctions.C": "cpp",
+        "maxwell-comb-final-fit.C": "cpp",
+        "perrin-final.C": "cpp",
+        "Gaussian-Sum.C": "cpp",
+        "Uniform-Dist.C": "cpp",
+        "Uniform-Error.C": "cpp",
+        "Binomial-Gaussian.C": "cpp",
+        "Binomial-Poisson.C": "cpp",
+        "CLT.C": "cpp",
+        "Poisson-Gaussian.C": "cpp",
+        "datanalysis.C": "cpp"
+    }
+}
